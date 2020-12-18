@@ -20,4 +20,4 @@ Current student at Lindsey Wilson College Columbia, KY, studying Mathematics and
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.linkedin.com/in/faith-lucy-kirabo-13a0b618a)
+|[LinkedIn](https://www.linkedin.com/in/faith-lucy-kirabo-13a0b618a)|
