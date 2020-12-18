@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FAITH LUCY KIRABO
 
 You can use the [editor on GitHub](https://github.com/faith-kl/faithlucy-kirabo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
