@@ -5,15 +5,8 @@
 - B.A MATHEMATICS
 - B.A BUSINESS ADMINISTRATION emphasis COMPUTER INFORMATION SYSTEMS
 
-### PROFESSIONAL SKILLS
-- Analytical thinking and creative problem solving
-- Interpersonal communication
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### About me
+Current student at Lindsey Wilson College Columbia, KY, studying Mathematics and Bussiness Administration with an emphasis in Computer Information Systems. Passionate about Mathematics and enthusiastic about using present and evolving technology to develop feasible solutions to some of the world's most pressing issues.
 
 # Header 1
 ## Header 2
@@ -27,15 +20,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faith-kl/faithlucy-kirabo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```[Link](https://www.linkedin.com/in/faith-lucy-kirabo-13a0b618a)
